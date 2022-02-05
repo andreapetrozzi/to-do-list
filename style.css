@@ -1,0 +1,32 @@
+ol{
+    padding: 0;
+}
+
+.btn-dark{
+      margin-left: 10px;
+}
+
+.btn1{
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    float: right;
+}
+
+li{
+    padding: 1%;
+    border: solid grey 1px;
+    list-style-position: inside;
+    list-style: none;
+    width: 90vw;
+    margin: auto;
+}
+
+.input {
+    width: 85vw;
+}
+
+#input{
+    margin: auto;
+    width: 90vw;
+}
