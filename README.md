@@ -1,2 +1,2 @@
 # to-do-list
-exercise with html, css and javascript 
+Exercise with html, css and javascript 
