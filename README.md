@@ -2,7 +2,7 @@
 
 ### Description
 Creating a To Do List with JavaScript and Bootstrap. </br>
-Use CSS and JavaScript to create a "to-do list" to organize and prioritize your tasks. </br>
+Use CSS and jQuery to create a "to-do list" to organize and prioritize your tasks. </br>
 
 Use Live Server (ex. WAMP o MAMP)
 
