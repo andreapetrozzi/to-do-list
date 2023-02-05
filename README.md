@@ -1,7 +1,8 @@
 # to-do-list
 
-DESCRIPTION
-Creating a To Do List in JavaScript and Bootstrap
+### Description
+Creating a To Do List with JavaScript and Bootstrap.
+Use CSS and JavaScript to create a "to-do list" to organize and prioritize your tasks.
 
 
 ### Page
