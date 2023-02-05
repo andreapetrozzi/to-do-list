@@ -1,6 +1,4 @@
 # to-do-list
-Exercise with html, css and javascript 
-
 
 DESCRIPTION
 Creating a To Do List in JavaScript and Bootstrap
